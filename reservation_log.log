@@ -30003,3 +30003,221 @@ Symbols not available. Dumping unresolved backtrace:
 2025-12-04 17:49:45 INFO: Driver [C:\Users\ruiyo\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
 2025-12-04 17:49:48 INFO: ログイン後のアラートを受け付けました
 2025-12-04 17:49:48 INFO: ログイン後 - 利用方法選択へ遷移
+2026-01-22 10:09:54 INFO: 実行開始
+2026-01-22 10:09:54 INFO: 実行開始
+2026-01-22 10:09:54 INFO: SpecialDate シート内容:
+  SpecialDate  ←この列に、yyyy/mm/dd形式で対象となる特別予約日を入力してください ParsedDate
+0  2025-10-18                                     NaN       None
+1  2025-10-19                                     NaN       None
+2  2025-10-25                                     NaN       None
+2026-01-22 10:09:54 INFO: parse_jp_date の結果:
+2026-01-22 10:09:54 INFO:   行0: 原文=Timestamp('2025-10-18 00:00:00') → 変換=None
+2026-01-22 10:09:54 INFO:   行1: 原文=Timestamp('2025-10-19 00:00:00') → 変換=None
+2026-01-22 10:09:54 INFO:   行2: 原文=Timestamp('2025-10-25 00:00:00') → 変換=None
+2026-01-22 10:09:54 INFO: special_dates に格納された日付: [datetime.date(2025, 10, 25), datetime.date(2025, 10, 18), datetime.date(2025, 10, 19)]
+2026-01-22 10:09:54 INFO: === ユーザー 50020559 の予約を開始 ===
+2026-01-22 10:09:54 INFO: TimePattern: A1
+2026-01-22 10:09:54 INFO: ====== WebDriver manager ======
+2026-01-22 10:09:58 INFO: Get LATEST chromedriver version for google-chrome
+2026-01-22 10:09:58 INFO: Get LATEST chromedriver version for google-chrome
+2026-01-22 10:09:59 INFO: There is no [win64] chromedriver "144.0.7559.96" for browser google-chrome "144.0.7559" in cache
+2026-01-22 10:09:59 INFO: Get LATEST chromedriver version for google-chrome
+2026-01-22 10:09:59 INFO: 実行開始
+2026-01-22 10:09:59 INFO: 実行開始
+2026-01-22 10:09:59 INFO: SpecialDate シート内容:
+  SpecialDate  ←この列に、yyyy/mm/dd形式で対象となる特別予約日を入力してください ParsedDate
+0  2025-10-18                                     NaN       None
+1  2025-10-19                                     NaN       None
+2  2025-10-25                                     NaN       None
+2026-01-22 10:09:59 INFO: parse_jp_date の結果:
+2026-01-22 10:09:59 INFO:   行0: 原文=Timestamp('2025-10-18 00:00:00') → 変換=None
+2026-01-22 10:09:59 INFO:   行1: 原文=Timestamp('2025-10-19 00:00:00') → 変換=None
+2026-01-22 10:09:59 INFO:   行2: 原文=Timestamp('2025-10-25 00:00:00') → 変換=None
+2026-01-22 10:09:59 INFO: special_dates に格納された日付: [datetime.date(2025, 10, 25), datetime.date(2025, 10, 18), datetime.date(2025, 10, 19)]
+2026-01-22 10:09:59 INFO: === ユーザー 50020559 の予約を開始 ===
+2026-01-22 10:09:59 INFO: TimePattern: A1
+2026-01-22 10:09:59 INFO: ====== WebDriver manager ======
+2026-01-22 10:10:00 INFO: WebDriver version 144.0.7559.96 selected
+2026-01-22 10:10:00 INFO: Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/144.0.7559.96/win32/chromedriver-win32.zip
+2026-01-22 10:10:00 INFO: About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/144.0.7559.96/win32/chromedriver-win32.zip
+2026-01-22 10:10:01 INFO: Driver downloading response is 200
+2026-01-22 10:10:01 INFO: Get LATEST chromedriver version for google-chrome
+2026-01-22 10:10:01 INFO: Get LATEST chromedriver version for google-chrome
+2026-01-22 10:10:02 INFO: Get LATEST chromedriver version for google-chrome
+2026-01-22 10:10:02 INFO: Driver has been saved in cache [C:\Users\ruiyo\.wdm\drivers\chromedriver\win64\144.0.7559.96]
+2026-01-22 10:10:02 INFO: There is no [win64] chromedriver "144.0.7559.96" for browser google-chrome "144.0.7559" in cache
+2026-01-22 10:10:02 INFO: Get LATEST chromedriver version for google-chrome
+2026-01-22 10:10:04 INFO: WebDriver version 144.0.7559.96 selected
+2026-01-22 10:10:04 INFO: Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/144.0.7559.96/win32/chromedriver-win32.zip
+2026-01-22 10:10:04 INFO: About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/144.0.7559.96/win32/chromedriver-win32.zip
+2026-01-22 10:10:04 INFO: Driver downloading response is 200
+2026-01-22 10:10:05 INFO: Get LATEST chromedriver version for google-chrome
+2026-01-22 10:10:05 INFO: Driver has been saved in cache [C:\Users\ruiyo\.wdm\drivers\chromedriver\win64\144.0.7559.96]
+2026-01-22 10:10:09 INFO: ログイン後のアラートを受け付けました
+2026-01-22 10:10:09 INFO: ログイン後 - 利用方法選択へ遷移
+2026-01-22 10:10:09 INFO: ログイン後のアラートを受け付けました
+2026-01-22 10:10:09 INFO: ログイン後 - 利用方法選択へ遷移
+2026-01-22 10:10:10 ERROR: ユーザー 50020559 の予約処理中に例外発生: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=144.0.7559.59)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x5b7d13
+	0x5b7d54
+	0x3db290
+	0x3b9ce3
+	0x44ebfb
+	0x464bc9
+	0x447d56
+	0x4194d9
+	0x41a294
+	0x82bb64
+	0x827215
+	0x843fad
+	0x5d1ef8
+	0x5d9b0d
+	0x5c0738
+	0x5c0902
+	0x5aa1da
+	0x767f5d49
+	0x7788d5db
+	0x7788d561
+
+2026-01-22 10:10:12 INFO: === ユーザー 51000635 の予約を開始 ===
+2026-01-22 10:10:12 INFO: TimePattern: A1
+2026-01-22 10:10:12 INFO: ====== WebDriver manager ======
+2026-01-22 10:10:14 INFO: 利用目的・種別を選択完了
+2026-01-22 10:10:14 INFO: ▼ 選択対象の施設一覧: ['大沼公園グラウンド', '立沼テニス場']
+2026-01-22 10:10:14 INFO: 施設チェック: 大沼公園グラウンド のチェックボックスを探します
+2026-01-22 10:10:15 INFO:  → 大沼公園グラウンド チェック成功
+2026-01-22 10:10:15 INFO: 施設チェック: 立沼テニス場 のチェックボックスを探します
+2026-01-22 10:10:15 INFO:  → 立沼テニス場 チェック成功
+2026-01-22 10:10:15 INFO: 施設選択完了
+2026-01-22 10:10:15 INFO: Get LATEST chromedriver version for google-chrome
+2026-01-22 10:10:15 INFO: Get LATEST chromedriver version for google-chrome
+2026-01-22 10:10:16 INFO: Driver [C:\Users\ruiyo\.wdm\drivers\chromedriver\win64\144.0.7559.96\chromedriver.exe] found in cache
+2026-01-22 10:10:19 INFO: (A) 施設別空き状況ページ到達
+2026-01-22 10:10:19 INFO: ログイン後のアラートを受け付けました
+2026-01-22 10:10:19 INFO: ログイン後 - 利用方法選択へ遷移
+2026-01-22 10:10:22 INFO: (B) 時間帯別空き状況ページ到達 - ここでコート/時間帯をクリック
+2026-01-22 10:10:22 ERROR: ユーザー 50020559 の予約処理中に例外発生: Alert Text: 申込したい日を選んでください。
+Message: unexpected alert open: {Alert text : 申込したい日を選んでください。}
+  (Session info: chrome=144.0.7559.59)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x5b7d13
+	0x5b7d54
+	0x3db290
+	0x4659a6
+	0x447d56
+	0x4194d9
+	0x41a294
+	0x82bb64
+	0x827215
+	0x843fad
+	0x5d1ef8
+	0x5d9b0d
+	0x5c0738
+	0x5c0902
+	0x5aa1da
+	0x767f5d49
+	0x7788d5db
+	0x7788d561
+
+2026-01-22 10:10:23 INFO: 利用目的・種別を選択完了
+2026-01-22 10:10:23 INFO: ▼ 選択対象の施設一覧: ['立沼テニス場', '大沼公園グラウンド']
+2026-01-22 10:10:23 INFO: 施設チェック: 立沼テニス場 のチェックボックスを探します
+2026-01-22 10:10:23 INFO:  → 立沼テニス場 チェック成功
+2026-01-22 10:10:23 INFO: 施設チェック: 大沼公園グラウンド のチェックボックスを探します
+2026-01-22 10:10:24 INFO:  → 大沼公園グラウンド チェック成功
+2026-01-22 10:10:24 INFO: 施設選択完了
+2026-01-22 10:10:24 INFO: === ユーザー 51000635 の予約を開始 ===
+2026-01-22 10:10:24 INFO: TimePattern: A1
+2026-01-22 10:10:24 INFO: ====== WebDriver manager ======
+2026-01-22 10:10:26 INFO: Get LATEST chromedriver version for google-chrome
+2026-01-22 10:10:27 INFO: Get LATEST chromedriver version for google-chrome
+2026-01-22 10:10:28 INFO: Driver [C:\Users\ruiyo\.wdm\drivers\chromedriver\win64\144.0.7559.96\chromedriver.exe] found in cache
+2026-01-22 10:10:30 INFO: (A) 施設別空き状況ページ到達
+2026-01-22 10:10:31 INFO: ログイン後のアラートを受け付けました
+2026-01-22 10:10:31 INFO: ログイン後 - 利用方法選択へ遷移
+2026-01-22 10:10:32 INFO: (B) 時間帯別空き状況ページ到達 - ここでコート/時間帯をクリック
+2026-01-22 10:10:32 ERROR: ユーザー 51000635 の予約処理中に例外発生: Alert Text: 申込したい日を選んでください。
+Message: unexpected alert open: {Alert text : 申込したい日を選んでください。}
+  (Session info: chrome=144.0.7559.59)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x5b7d13
+	0x5b7d54
+	0x3db290
+	0x4659a6
+	0x447d56
+	0x4194d9
+	0x41a294
+	0x82bb64
+	0x827215
+	0x843fad
+	0x5d1ef8
+	0x5d9b0d
+	0x5c0738
+	0x5c0902
+	0x5aa1da
+	0x767f5d49
+	0x7788d5db
+	0x7788d561
+
+2026-01-22 10:10:34 ERROR: ユーザー 51000635 の予約処理中に例外発生: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=144.0.7559.59)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x5b7d13
+	0x5b7d54
+	0x3db290
+	0x3b9ce3
+	0x44ebfb
+	0x464bc9
+	0x447d56
+	0x4194d9
+	0x41a294
+	0x82bb64
+	0x827215
+	0x843fad
+	0x5d1ef8
+	0x5d9b0d
+	0x5c0738
+	0x5c0902
+	0x5aa1da
+	0x767f5d49
+	0x7788d5db
+	0x7788d561
+
+2026-01-22 10:10:34 INFO: === ユーザー 51000637 の予約を開始 ===
+2026-01-22 10:10:34 INFO: TimePattern: A1
+2026-01-22 10:10:34 INFO: ====== WebDriver manager ======
+2026-01-22 10:10:36 INFO: === ユーザー 51000637 の予約を開始 ===
+2026-01-22 10:10:36 INFO: TimePattern: A1
+2026-01-22 10:10:36 INFO: ====== WebDriver manager ======
+2026-01-22 10:10:36 INFO: Get LATEST chromedriver version for google-chrome
+2026-01-22 10:10:37 INFO: Get LATEST chromedriver version for google-chrome
+2026-01-22 10:10:38 INFO: Driver [C:\Users\ruiyo\.wdm\drivers\chromedriver\win64\144.0.7559.96\chromedriver.exe] found in cache
+2026-01-22 10:10:38 INFO: Get LATEST chromedriver version for google-chrome
+2026-01-22 10:10:38 INFO: Get LATEST chromedriver version for google-chrome
+2026-01-22 10:10:39 INFO: Driver [C:\Users\ruiyo\.wdm\drivers\chromedriver\win64\144.0.7559.96\chromedriver.exe] found in cache
+2026-01-22 10:10:42 INFO: ログイン後のアラートを受け付けました
+2026-01-22 10:10:42 INFO: ログイン後 - 利用方法選択へ遷移
+2026-01-22 10:10:44 INFO: ログイン後のアラートを受け付けました
+2026-01-22 10:10:44 INFO: ログイン後 - 利用方法選択へ遷移
+2026-01-22 10:10:48 INFO: 利用目的・種別を選択完了
+2026-01-22 10:10:48 INFO: ▼ 選択対象の施設一覧: ['大沼公園グラウンド', '立沼テニス場']
+2026-01-22 10:10:48 INFO: 施設チェック: 大沼公園グラウンド のチェックボックスを探します
+2026-01-22 10:10:48 INFO: 利用目的・種別を選択完了
+2026-01-22 10:10:48 INFO: ▼ 選択対象の施設一覧: ['立沼テニス場', '大沼公園グラウンド']
+2026-01-22 10:10:48 INFO: 施設チェック: 立沼テニス場 のチェックボックスを探します
+2026-01-22 10:10:48 INFO:  → 立沼テニス場 チェック成功
+2026-01-22 10:10:48 INFO: 施設チェック: 大沼公園グラウンド のチェックボックスを探します
+2026-01-22 10:10:48 INFO:  → 大沼公園グラウンド チェック成功
+2026-01-22 10:10:48 INFO: 施設選択完了
+2026-01-22 10:10:50 INFO:  → 大沼公園グラウンド チェック成功
+2026-01-22 10:10:50 INFO: 施設チェック: 立沼テニス場 のチェックボックスを探します
+2026-01-22 10:10:50 INFO:  → 立沼テニス場 チェック成功
+2026-01-22 10:10:50 INFO: 施設選択完了
