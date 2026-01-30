@@ -17,6 +17,5 @@
 
 ## exe を作成
 ```pyinstaller --onefile --noconsole --clean --name kasukou_auto_apply_lottery --add-data "kasukou_auto_apply_lottery.xlsx;." kasukou_auto_apply_lottery.py```
-  ```
 
 ## distフォルダ配下にEXEファイルが追加されます。
